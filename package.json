@@ -1,0 +1,26 @@
+{
+  "name": "customer-library",
+  "version": "1.0.0",
+  "description": "[![codecov](https://codecov.io/gh/voop87/ZooApp/branch/master/graph/badge.svg?token=SKVQ8OAQG5)](https://codecov.io/gh/voop87/ZooApp)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voop87/JS-Customer-Library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voop87/JS-Customer-Library/issues"
+  },
+  "homepage": "https://github.com/voop87/JS-Customer-Library#readme",
+  "devDependencies": {
+    "jest": "27.0.4"
+  }
+}
